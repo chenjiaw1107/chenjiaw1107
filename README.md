@@ -1,5 +1,3 @@
-Self-Introduction
-
 👋 Hello, I'm Chen Jiawei, a scholar passionate about exploring the intersection of technology and philosophy. I not only navigate the depths of computer technology but also seek wisdom in the halls of Marxist fundamental principles.
 
 🎓 My academic journey has spanned multiple fields, from the School of Management at Capital Normal University to the School of Computer Science at Beihang University, and back to the School of Marxism at Capital Normal University. Each transition has been an expansion of my boundaries. I hold dual master's degrees in Marxist Fundamental Principles and Computer Technology, and I am currently pursuing a doctorate in Marxist Fundamental Principles.
@@ -39,7 +37,7 @@ Self-Introduction
 For friends interested in my research or any related topics, feel free to contact me through the following ways to explore the infinite possibilities of academics and technology together.
 
 - **Email**: [chenjiaw1107@163.com]
-
+- **GitHub**: [https://github.com/chenjiaw1107]
 
 🌱 In this constantly changing world, let's grow and progress together.
 
